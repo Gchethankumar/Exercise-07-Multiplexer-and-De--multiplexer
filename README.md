@@ -2,15 +2,15 @@
 
 ## AIM:
 
-To implement 4 X1 multiplexer and 1X4 de multiplexer using verilog and validate its outputs
+To implement 4 X1 multiplexer and 1X4 de multiplexer using verilog and validate its outputs.
 
 ## HARDWARE REQUIRED:  
 
-PC, Cyclone II , USB flasher
+PC, Cyclone II , USB flasher.
 
 ## SOFTWARE REQUIRED: 
 
-Quartus prime
+Quartus prime.
 
 ## THEORY 
 
